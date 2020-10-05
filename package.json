@@ -1,0 +1,8 @@
+{
+  "name": "test-rca",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:zerdos/test-rca.git",
+  "author": "Zoltan Erdos <zoltan.erdos@me.com>",
+  "license": "MIT"
+}
