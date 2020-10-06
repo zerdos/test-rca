@@ -7,8 +7,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Bio name="Joe" dob={1203}>
-ssssssssssssssss          He likes to play with trains
+        <Bio name="Zoltan" dob={1984}>
+          He loves software updates
         </Bio>
       </header>
     </div>
